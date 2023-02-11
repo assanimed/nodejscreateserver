@@ -7,7 +7,7 @@
 ## SETUP
 #### 1. Connection credentials
 
- Move <code>.env.exampel</code> To <code>.env</code> and you database Connection credentials.
+ Move <code>.env.exampel</code> To <code>.env</code> and add you database Connection credentials.
 
 
 #### 2. Install Dependencies
